@@ -1,0 +1,34 @@
+body {background-color: blue;
+  margin: 5%;}
+
+h1 {color: white}
+
+h2 {font-size: 16px}
+
+ul {list-style-type:none}
+
+.instructor {float:right;
+  background-color: white;
+  color: black;
+  border: solid;
+  text-align:left;
+  height: 450px;
+  width: 400px;
+  }
+
+.student {float:left;
+  background-color: white;
+  color: black;
+  border: solid;
+  text-align: left;
+  height: 450px;
+  width: 400px;}
+
+.view {text-align: center;
+  margin-top: 58%;
+  margin-left: 39%;
+  margin-right: 39%;
+  background-color: white;
+  color: black;
+  border: solid;
+}
