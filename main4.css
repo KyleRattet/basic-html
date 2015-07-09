@@ -1,5 +1,28 @@
-nav {border: solid;}
+nav {border-bottom: solid;
+    height: 20px;
+     }
+
+.nav-links li{display: inline-block;
+padding: 0 20px 20px;}
+
+body{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;}
 
 .your-info {color: orange}
 
-.purple-text {color: purple}
+.purple-text {color: #FF00FF;
+      font-size: 12px;}
+
+.form-name {width: 150px;
+    border-color: black;
+  }
+
+.from-co {width: 10px;
+  border-color: #FF00FF;}
+
+button {background-color: orange;
+  box-shadow: 2px 2px 2px
+}
